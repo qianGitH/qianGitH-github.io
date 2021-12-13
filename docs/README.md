@@ -1,9 +1,7 @@
 ---
 home: true
-heroImage: /home.png
 title: a
 actionText: Get Started →
-actionLink: /guide/
 features:
   - title: Feature-rich
     details: Typical templates for enterprise applications and various components
@@ -19,16 +17,3 @@ features:
     details: Supports multiple dynamic skin methods
 footer: MIT Licensed | Copyright © 2017-present PanJiaChen
 ---
-
-## Getting Started
-
-```bash
-# clone the project
-git clone https://github.com/PanJiaChen/vue-element-admin.git
-
-# install dependency
-npm install
-
-# develop
-npm run dev
-```
